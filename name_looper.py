@@ -1,2 +1,2 @@
 print ("Program")
-int num = input("Enter int:")
+num = input("Enter int:")
