@@ -1,4 +1,4 @@
-# Week 6 Project
+# Week 6 Project - Argument Bot 3000
 
 ## Collaborators:
 
@@ -8,10 +8,17 @@
 
 ## Getting started
 
-This program takes an integer and name and outputs the name the "int" many times.
-ex. integer = 5, name = "zach", "zach" prints out 5 times.
+Welcome to the Argument Bot 3000! This program contains a number of functions for maximizing your argumentative prowess on the Internet.
 
-This is part of a larger project that is an argumentive machine.
+### Installation and Usage
+
+To use this program, simply clone the database on your local computer using the command:
+
+`git clone `
+
+Then, run the program using a Python IDE or the command line.
+
+### Functionality
 
 1. Repeats your argument a certain number of times
 2. Inserts a clapping emoji between each word in your argument
