@@ -1,5 +1,6 @@
 # Software Engineering Code of Ethics and Professional Practice (Short Version)
 
+
 ## PREAMBLE
 
 The short version of the code summarizes aspirations at a high level of the abstraction; the clauses that are included in the full version give examples and details of how these aspirations change the way we act as software engineering professionals. Without the aspirations, the details can become legalistic and tedious; without the details, the aspirations can become high sounding but empty; together, the aspirations and the details form a cohesive code.
