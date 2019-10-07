@@ -14,14 +14,19 @@ Welcome to the Argument Bot 3000! This program contains a number of functions fo
 
 To use this program, simply clone the database on your local computer using the command:
 
-`git clone `
+`git clone https://github.com/zch5/week6-project.git`
 
 Then, run the program using a Python IDE or the command line.
 
-### Functionality
+### Functions
 
-1. Repeats your argument a certain number of times
-2. Inserts a clapping emoji between each word in your argument
-3. Highlights your opponent's spelling errors for easy vindictive correction
-4. Makes a string alternate between capital and lowercase letters for mocking purposes
-5. Inserts the string "thank u, next" after each argument
+1. clap()
+  * Inserts a clapping emoji between each word in a string for added effect.
+  * Example:
+    * Input: `clap("Pineapple does not belong on pizza!")`
+    * Output: `Pineapple [clap] does [clap] not [clap] belong [clap] on [clap] pizza!`
+2. mic_drop()
+3. mock()
+4. repeat()
+5. spellcheck()
+6. thank_u_next()
