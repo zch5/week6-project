@@ -24,4 +24,5 @@ Software engineers shall commit themselves to making the analysis, specification
 8. SELF – Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession.
 
 The full version of this code of conduct, courtesy of ACM Ethics, can be found here:
+
 <https://ethics.acm.org/code-of-ethics/software-engineering-code/>
