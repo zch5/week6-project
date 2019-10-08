@@ -36,7 +36,7 @@ Then, run the program using a Python IDE or the command line.
     * Input: `mock("Pineapple does not belong on pizza!")`
     * Output: `PiNeaPpLE DoEs nOt bElOng oN pIzZa!`
 4. repeat(argument, int)
-  * Repeats your argument int number of times to make it more true each time.
+  * Repeats your argument *int* number of times to make it more true each time.
   * Example:
     * Input: `repeat("Pineapple does not belong on pizza!", 3)`
     * Output:
@@ -45,12 +45,12 @@ Then, run the program using a Python IDE or the command line.
     Pineapple does not belong on pizza!
     Pineapple does not belong on pizza!
     ```
-5. spellcheck()
+5. spellcheck(argument)
   * Corrects your opponent's misspelled words to really zing 'em.
   * Example:
     * Input: `spellcheck("Pineapple does not belnog on pizza!")`
     * Output: `Pineapple does not *belong on pizza!`
-6. thank_u_next()
+6. thank_u_next(argument)
   * Inserts "thank u next" at the end of a really compelling argument.
   * Example:
     * Input: `thank_u_next()`
