@@ -38,8 +38,13 @@ Then, run the program using a Python IDE or the command line.
 4. repeat(argument, int)
   * Repeats your argument int number of times to make it more true each time.
   * Example:
-    * Input: `repeat("Pineapple does not belong on pizza!" , 3)`
-    * Output: `Pineapple does not belong on pizza! Pineapple does not belong on pizza! Pineapple does not belong on pizza!`
+    * Input: `repeat("Pineapple does not belong on pizza!", 3)`
+    * Output:
+    ```
+    Pineapple does not belong on pizza!
+    Pineapple does not belong on pizza!
+    Pineapple does not belong on pizza!
+    ```
 5. spellcheck()
   * Corrects your opponent's misspelled words to really zing 'em.
   * Example:
