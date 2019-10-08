@@ -24,11 +24,11 @@ Then, run the program using a Python IDE or the command line.
   * Inserts a clapping emoji between each word in a string for added effect.
   * Example:
     * Input: `clap("Pineapple does not belong on pizza!")`
-    * Output: `Pineapple &#1F44F; does [clap] not [clap] belong [clap] on [clap] pizza!`
+    * Output: `Pineapple :clap: does [clap] not [clap] belong [clap] on [clap] pizza!`
 2. mic_drop()
 3. mock()
 4. repeat()
 5. spellcheck()
 6. thank_u_next()
 
-(U+1F44F)
+:clap:
