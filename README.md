@@ -31,4 +31,4 @@ Then, run the program using a Python IDE or the command line.
 5. spellcheck()
 6. thank_u_next()
 
-&#1F44F;
+(U+1F44F)
